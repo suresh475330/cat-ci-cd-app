@@ -30,7 +30,7 @@ const UsersList = () => {
   return (
     <div>
       <h2>User List</h2>
-      <h2>Github actions</h2>
+      <h2>Github actions enable</h2>
       {loading && <h2>loading...</h2>}
       <ul>
 
